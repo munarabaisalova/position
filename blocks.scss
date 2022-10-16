@@ -1,0 +1,22 @@
+@import "reset";
+@import "mixins";
+@import "varables";
+#blocks {
+  width: 95%;
+  background: #15141A;
+  .blocks {
+    &--title {
+display: flex;
+      justify-content: space-around;
+      align-items: center;
+    }
+  }
+  .blocks {
+    &--vector {
+display: flex;
+      justify-content: space-around;
+      align-items: center;
+      margin-top: 40px;
+    }
+  }
+}

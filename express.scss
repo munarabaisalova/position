@@ -1,0 +1,65 @@
+@import "mixins";
+@import "varables";
+@import "reset";
+#express {
+  width: 95%;
+  background: #15141A;
+  .express {
+display: flex;
+    justify-content: space-between;
+    align-items: center;
+    &--block {
+      h3 {
+        font-family: 'Inter',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        color: #D29C10;
+
+      }
+    }
+  }
+  .express {
+    &--title {
+      &__img {
+        display: flex;
+        align-items: center;
+        h2 {
+          font-family: 'Inter',sans-serif;
+          font-style: normal;
+          font-weight: 500;
+          font-size: 24px;
+          line-height: 29px;
+          color: #F1B864;
+
+
+        }
+      }
+      &__div {
+        font-family: 'Inter',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 40px;
+        line-height: 48px;
+
+        color: #FFFFFF;
+      }
+    }
+
+  }
+  .express {
+    &--text {
+      p {
+        font-family: 'Inter',sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        color: #D29C10;
+
+      }
+    }
+  }
+
+}

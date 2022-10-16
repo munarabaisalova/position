@@ -1,0 +1,86 @@
+@import "reset";
+@import "varables";
+@import "mixins";
+#phone {
+  width: 95%;
+  background:  #15141A;
+
+  .phone {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    &--block {
+      margin-right:400px;
+      &__btn {
+        margin:50px 0 50px;
+        width: 140px;
+        height: 40px;
+        background: none;
+        border-radius: 25px;
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        border-color: #FFFFFF;
+        color: #FFFFFF;
+
+        &:hover {
+          border-color: red;
+          color: red;
+        }
+
+      }
+
+    }
+  }
+
+  .phone {
+    &--title {
+      display: flex;
+      align-items: center;
+
+      h2 {
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+
+        color: #F1B864;
+
+
+      }
+
+    }
+
+    .phone {
+      &--text {
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 40px;
+        line-height: 48px;
+
+        color: #FFFFFF;
+
+
+        &__select {
+          font-family: 'Inter', sans-serif;
+          font-style: normal;
+          font-weight: 500;
+          font-size: 40px;
+          line-height: 48px;
+background: none;
+          border: none;
+          color: #F7A659;
+          &--option {
+
+
+          }
+        }
+      }
+    }
+  }
+}

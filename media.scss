@@ -1,0 +1,829 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 90%;
+  }
+  .header--search {
+    justify-content: space-around;
+    margin-right: -30px;
+  }
+  .about__elita {
+    margin-left: -58px;
+
+  }
+  #footer .footer .footer--butt__btn--logo {
+    color: white;
+    width: 46px;
+    height: 50px;
+  }
+  #atom .atom--hr {
+    width: 1202px;
+    border: solid #727272;
+  }
+  #hero .hero--dev__btn {
+    width: 37px;
+    height: 37px;
+  }
+  #about .about--desk {
+    width: 201px;
+    height: 341px;
+  }
+  #about .about--us__btn11--span {
+    margin-left: 196px;
+  }
+  product img {
+    width: 217px;
+  }
+  #hero .hero--img {
+    width: 72px;
+  }
+  .hero--img img {
+    width: 83px;
+  }
+
+  .about__elita {
+    width: 327px;
+    height: 512px;
+  }
+  .relax--red {
+    position: relative;
+    width: 280px;
+    height: 392px;
+
+  }
+  .relax {
+    margin-right: 202px;
+  }
+
+}
+
+@media (max-width: 1200px) {
+  .container {
+    width: 90%;
+  }
+  .hamburger-menu {
+    display: block;
+  }
+  .footer .footer--logo {
+    padding: 78px;
+  }
+  .product img {
+    width: 208px;
+    margin-top: 60px;
+  }
+  .about {
+    margin-right: 176px;
+  }
+  .about--desk {
+    position: absolute;
+    width: 251px;
+    height: 446px;
+
+  }
+  #about .about__elita {
+    width: 299px;
+    height: 477px;
+    margin-left: -143px;
+  }
+  #about .about--button {
+    width: 73px;
+    height: 355px;
+  }
+  .product {
+    img {
+      width: 317px;
+    }
+  }
+  #product .product--block {
+    margin-top: -56px;
+    position: relative;
+    margin-right: 93px;
+  }
+  #present .present {
+    margin-right: 116px;
+  }
+  .blocks {
+    .style {
+      margin-right: -14px;
+    }
+
+  }
+  @media (max-width: 1024px) {
+    .container {
+      width: 90%;
+    }
+    #deck .deck--image img {
+      position: relative;
+      width: 715px;
+      height: 410px;
+    }
+    #footer .footer--title h1 {
+      font-size: 26px;
+
+    }
+    .footer--dev img {
+      width: 130px;
+    }
+    #footer .footer .footer--butt__btn {
+      width: 237px;
+    }
+
+  }
+  @media (max-width: 992px) {
+    .container {
+      width: 90%;
+    }
+  }
+  @media (max-width: 768px) {
+    .container {
+      width: 90%;
+    }
+    .hamburger-menu {
+      display: none;
+    }
+    .hero--text {
+      width: 212px;
+    }
+    .hero--image__img3 {
+      width: 143px;
+    }
+    .hero--image__img4 {
+      width: 205px;
+    }
+    #hero .hero--img {
+      margin: 20px;
+      width: 200px;
+    }
+    .hero--black__iona {
+      width: 459px;
+    }
+    #about .about {
+      margin-right: 330px;
+    }
+    #about .about--desk {
+      position: absolute;
+      width: 216px;
+      height: 312px;
+      left: 561px;
+    }
+    #about .about__elita {
+      width: 219px;
+      height: 340px;
+      margin-left: -56px;
+      margin-top: -19px;
+    }
+    #about .about--button {
+      width: 59px;
+      height: 266px;
+    }
+    #blocks .blocks--title {
+      margin-right: 20px;
+
+      .img {
+        width: 100px;
+      }
+    }
+    .blocks--vector {
+      margin-right: 20px;
+
+      .img {
+        width: 100px;
+      }
+    }
+    .product img {
+      width: 92px;
+      padding: 52px;
+    }
+    .product img {
+      width: 201px;
+      padding: 20px;
+    }
+    #deck .deck--image img {
+      position: relative;
+      width: 468px;
+      height: 326px;
+      margin-left: -277px;
+    }
+    #atom .atom .atom--text p {
+      font-size: 8px;
+    }
+    #atom .atom .atom--title h1 {
+      font-size: 15px;
+
+    }
+    #atom .atom--span {
+      font-size: 9px;
+    }
+    #footer .footer--dev__btn {
+      width: 173px;
+      height: 58px;
+    }
+    #footer .footer .footer--fox h1 {
+      font-size: 17px;
+    }
+    #footer .footer--dev p {
+      font-size: 8px;
+    }
+    #footer .footer .footer--butt__btn {
+      width: 162px;
+      height: 41px;
+    }
+  }
+  @media (max-width: 576px) {
+    .container {
+      width: 90%;
+    }
+
+    #header .header--search {
+      height: 22px;
+      width: 62px;
+    }
+    #hero .hero--title {
+      padding: 70px 0 0 45px;
+      font-size: 15px;
+    }
+    .hero--text {
+      width: 182px;
+    }
+    #hero .hero--image {
+      padding: 55px;
+
+      img {
+        width: 200px;
+      }
+    }
+    .hero--black__iona {
+      width: 378px;
+    }
+
+    #about .about--block__div p {
+      font-size: 12px;
+
+    }
+
+    #about .about {
+      margin-right: 70px;
+    }
+
+    #about .about__elita {
+      width: 187px;
+      height: 291px;
+      margin-left: -257px;
+    }
+    .blocks--title img {
+      width: 100px;
+    }
+    .blocks--vector img {
+      width: 100px;
+    }
+    #product .product--block {
+      margin-top: -20px;
+    }
+    .product img {
+      width: 136px;
+      padding: 20px;
+    }
+    #left .left .left--btn6 {
+      width: 93px;
+      height: 34px;
+      font-size: 12px;
+    }
+    #product .product .product--image h3 {
+      font-size: 20px;
+
+    }
+
+    #product .product .product--image__p {
+      font-size: 8px;
+    }
+    #left .left .left--button {
+      margin-top: 249px;
+      width: 190px;
+      height: 39px;
+    }
+    #product .product .product--btn8 {
+      position: absolute;
+      width: 69.39px;
+      height: 22.59px;
+      left: 259px;
+      top: 565px;
+    }
+    #left .left .left--text h1 {
+      font-size: 22px;
+
+    }
+    #deck .deck .deck--block h1 {
+      font-size: 23px;
+    }
+    #deck .deck--image__any {
+      position: relative;
+      left: 132px;
+      top: -116px;
+      font-size: 34px;
+    }
+    #express .express--title__div {
+      font-size: 19px;
+    }
+    #footer .footer--title h1 {
+      font-size: 8px;
+    }
+    .footer--dev img {
+      width: 87px;
+    }
+    #footer .footer {
+      justify-content: center;
+    }
+    #footer .footer--dev__btn {
+      width: 104px;
+      height: 36px;
+    }
+    #footer .footer .footer--butt__btn {
+      width: 149px;
+      height: 33px;
+    }
+    .icon-inner {
+      display: block;
+      height: 75%;
+      width: 87%;
+    }
+    .ion--icons {
+      width: 40px;
+      height: 30px;
+    }
+    #footer .footer .footer--butt__btn--logo {
+      width: 28px;
+      height: 34px;
+    }
+    #footer .footer--block__ask--btn {
+      width: 142px;
+      height: 43px;
+      font-size: 14px;
+    }
+    #atom .atom--block h2 {
+      font-size: 10px;
+    }
+  }
+  #phone .phone .phone--text__select {
+    font-size: 29px;
+  }
+
+  #phone .phone .phone--text {
+    font-size: 25px;
+  }
+
+
+}
+
+@media (max-width: 450px) {
+  .container {
+    width: 90%;
+  }
+
+  #header .header__title {
+    font-size: 6px;
+  }
+  .header img {
+    width: 50px;
+  }
+  #header .header--search__txt {
+    font-size: 6px;
+  }
+  #header .header__icon {
+    width: 18px;
+    height: 24px;
+  }
+  #hero .hero--image img {
+    width: 120px;
+  }
+  #hero .hero--img {
+    width: 107px;
+  }
+  .hero--img img {
+    width: 120px;
+  }
+  #hero .hero--star {
+    width: 20px;
+  }
+  .hero--black__iona {
+    width: 273px;
+  }
+  #about .about--btn {
+    width: 47px;
+    height: 47px;
+    margin-left: 10px;
+  }
+  .about--btn img {
+    width: 29px;
+  }
+  #about .about--us__btn11 {
+    width: 48px;
+    height: 48px;
+  }
+  #about .about--button {
+    width: 48px;
+    height: 235px;
+    margin-left: 26px;
+  }
+  #about .about--us__btn11--span {
+    font-size: 11px;
+  }
+  #about .about__elita {
+    width: 159px;
+    height: 229px;
+    margin-left: -294px;
+  }
+  #about .about {
+    margin-right: 53px;
+  }
+  .blocks--title img {
+    width: 82px;
+  }
+  .blocks--title img {
+    width: 75px;
+  }
+  .blocks--title img {
+    width: 66px;
+  }
+  .blocks--vector img {
+    width: 74px;
+  }
+  .product img {
+    width: 95px;
+    padding: 20px;
+  }
+  #product .product--text h1 {
+    font-size: 20px;
+  }
+  #left .left .left--text h2 {
+    font-size: 6px;
+  }
+  #left .left .left--text h1 {
+    font-size: 4px;
+  }
+  #left .left .left--button {
+    margin-top: 295px;
+    width: 130px;
+    height: 32px;
+  }
+  #left .left .left--select {
+    font-size: 9px;
+  }
+  .left--block {
+    padding: 64px;
+  }
+  #left .left .left--block__purple {
+    margin-left: 24px;
+  }
+  #product .product .product--image__p {
+    left: 55px;
+  }
+  #relax .relax--red img {
+    width: 172px;
+  }
+  #relax .relax--red__text h2 {
+    font-size: 9px;
+  }
+
+  #relax .relax--red__text p {
+    font-size: 8px;
+  }
+  #relax .relax--red__line {
+    width: 157px;
+  }
+  #relax .relax--red__text h4 {
+    font-size: 8px;
+    left: 143px;
+  }
+  #relax .relax--red__text h5 {
+    left: 142px;
+    top: 338px;
+    font-size: 10px;
+  }
+  #relax .relax--red__rebus p {
+    left: 143px;
+    font-size: 8px;
+  }
+  #relax .relax--red__rebus--ion {
+    width: 13px;
+    left: 159px;
+  }
+  #phone .phone--block__btn {
+    margin: 38px 0 0 70px;
+    width: 125px;
+    height: 27px;
+    font-size: 10px;
+  }
+  #phone .phone--title h2 {
+    font-size: 8px;
+    margin-right: 20px;
+    padding: 0 0 5px 70px;
+  }
+  #phone .phone .phone--text {
+    font-size: 16px;
+    padding: 0 0 0 70px
+  }
+
+  #phone .phone .phone--text__select {
+    font-size: 21px;
+    padding: 0 0 0 70px;
+  }
+  #present .present--title h1 {
+    font-size: 11px;
+  }
+  #present .present--block img {
+    position: absolute;
+    width: 38px;
+  }
+  #present .present--block p {
+    font-size: 9px;
+  }
+  #present .present--title h2 {
+    font-size: 12px;
+  }
+
+  #present .present--text h3 {
+    left: 215px;
+    font-size: 9px;
+  }
+
+  #present .present--text h4 {
+    left: 251px;
+    font-size: 9px;
+  }
+  #deck .deck .deck--btn {
+    width: 127px;
+    height: 32px;
+    margin: 0 0 0 70px;
+  }
+  #deck .deck .deck--block h1 {
+    font-size: 14px;
+  }
+  #deck .deck .deck--block h2 {
+    font-size: 17px;
+  }
+  #deck .deck .deck--block__v {
+    width: 151px;
+    height: 40px;
+    font-size: 10px;
+  }
+  .deck--title img {
+    width: 22px;
+  }
+  #deck .deck .deck--title {
+    width: 23px;
+    height: 23px;
+  }
+  #deck .deck {
+    margin-right: 100px;
+  }
+  #deck .deck--image img {
+    width: 414px;
+  }
+  #deck .star-img {
+    width: 15px;
+  }
+  #express .express--title__img h2 {
+    font-size: 18px;
+  }
+  #express .express--block h3 {
+    font-size: 10px;
+  }
+  #express .express--text p {
+    font-size: 9px;
+  }
+  #atom .atom--hr {
+    width: 403px;
+  }
+  #atom .atom .atom--title h1 {
+    font-size: 13px;
+    padding-right: 25px;
+  }
+  #atom .atom .atom--text p {
+    font-size: 5px;
+  }
+  #atom .atom .atom--btn {
+    width: 26px;
+    height: 26px;
+  }
+  #footer .footer--dev__btn {
+    width: 98px;
+    height: 31px;
+    margin: 0 0 0 70px;
+  }
+
+  #footer .footer--block__ask--btn {
+    width: 123px;
+    height: 35px;
+    font-size: 10px;
+  }
+  #footer .footer .footer--end img {
+    width: 15px;
+  }
+  #footer .footer .footer--end__p {
+    padding: 0 10px;
+    font-size: 8px;
+  }
+  #footer .footer .footer--end {
+    padding: 48px 0 50px;
+  }
+  #footer .footer .footer--butt__btn {
+    width: 77px;
+    height: 28px;
+    font-size: 8px;
+  }
+}
+
+@media (max-width: 400px) {
+  .container {
+    width: 100%;
+  }
+  #relax .relax--red {
+    width: 195px;
+    height: 448px;
+  }
+  #phone .phone .phone--text {
+    font-size: 15px;
+    padding: 0 0 0 90px;
+  }
+  #phone .phone .phone--text__select {
+    font-size: 18px;
+    padding: 0 0 0 90px;
+  }
+  #present .present--block {
+    width: 263px;
+    height: 79px;
+
+  }
+  #footer .footer .footer--fox h1 {
+    font-size: 8px;
+    padding: 0 10px;
+  }
+  .footer--title {
+    margin-left: -126px;
+  }
+}
+
+@media (max-width: 380px) {
+  .container {
+    width: 100%;
+  }
+  #hero .hero--dev__btn {
+    width: 30px;
+    height: 16px;
+  }
+  #about .about--button {
+    width: 40px;
+    height: 185px;
+    margin-left: 66px;
+  }
+  #about .about--block__div p {
+    font-size: 9px;
+  }
+  #about .about__elita {
+    width: 129px;
+    height: 183px;
+    margin-left: -321px;
+  }
+  .product img {
+    width: 85px;
+    padding: 20px;
+  }
+  #left .left .left--text__cost--bt {
+    width: 10px;
+    height: 8px;
+  }
+  #left .left .left--btn6 {
+    width: 55px;
+    height: 26px;
+    font-size: 6px;
+  }
+  #relax .relax--red img {
+    width: 145px;
+    height: 252px;
+  }
+  #atom .atom--span {
+    font-size: 5px;
+  }
+  #atom .atom--hr {
+    width: 360px;
+  }
+  #atom .atom--block__img {
+    width: 24px;
+    height: 24px;
+  }
+  #atom .atom--block h2 {
+    font-size: 7px;
+  }
+  #atom .atom .atom--title h1 {
+    font-size: 9px;
+    padding-right: 51px;
+  }
+  #atom .atom .atom--text p {
+    font-size: 3px;
+  }
+  .footer--dev img {
+    width: 80px;
+    padding: 0 0 0 25px;
+  }
+  #footer .footer--dev p {
+    font-size: 7px;
+    padding: 30px 0 0 30px;
+  }
+  #footer .footer .footer--logo {
+    margin-right: 11px;
+  }
+  .footer--title {
+    margin-left: -144px;
+  }
+}
+
+@media (max-width: 375px) {
+  .container {
+    width: 90%;
+  }
+  #deck .deck--image img {
+    width: 366px;
+    height: 298px;
+  }
+  #relax .relax--red {
+    width: 176px;
+    height: 421px;
+  }
+
+
+}
+
+@media (max-width: 320px) {
+  .container {
+    width: 90%;
+  }
+ .hero--img  {
+   width: 68px;
+ }
+  image img {
+    width: 82px;
+  }
+  .hero--img {
+    width: 89px;
+  }
+  #hero .hero--img {
+    width: 60px;
+  }
+ .black__iona {
+    width: 179px;
+  }
+  #about .about__elita {
+    width: 94px;
+    height: 157px;
+    margin-left: -448px;
+  }
+  .product img {
+    width: 24px;
+    padding: 20px;
+  }
+  .product .swiper {
+    width: 153px;
+    height: 332px;
+  }
+  #left .left {
+    padding: 19px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  #relax .relax--red {
+    width: 354px;
+    height: 301px;
+  }
+  #relax .relax--red__text p {
+    font-size: 4px;
+  }
+  .red__text h4 {
+    font-size: 4px;
+    left: 52px;
+    top: 269px;
+  }
+ .red__text h2 {
+    font-size: 3px;
+   left: 11px;
+   top: 277px;
+  }
+  .red__text h5 {
+    left: 54px;
+    top: 283px;
+    font-size: 6px;
+  }
+  #relax .relax--red__line {
+    width: 61px;
+    left: 3px;
+    top: 266px;
+  }
+
+
+
+
+
+
+
+
+}
+

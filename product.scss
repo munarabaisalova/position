@@ -1,0 +1,79 @@
+@import "varables";
+@import "mixins";
+@import "reset";
+#product {
+
+  background: #15141A;
+  width: 95%;
+
+  .product {
+    &--title {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding-top: 50px;
+
+      h2 {
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        color: #F1B864;
+
+      }
+    }
+
+    .swiper {
+      width: 240px;
+      height: 320px;
+    }
+
+    .swiper-slide {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 18px;
+      font-size: 22px;
+      font-weight: bold;
+      color: #fff;
+    }
+
+
+  }
+
+  .product {
+    &--text {
+      h1 {
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 32px;
+        line-height: 39px;
+        text-align: center;
+        color: #FFFFFF;
+      }
+
+
+    }
+
+  }
+
+  .swiper {
+    width: 300px;
+    height: 300px;
+    padding: 50px;
+  }
+
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+  }
+}

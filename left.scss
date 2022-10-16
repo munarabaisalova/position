@@ -1,0 +1,140 @@
+@import "reset";
+@import "varables";
+@import "mixins";
+#left {
+  width: 95%;
+  background:  #15141A;
+  .left {
+    padding: 100px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+&--title {
+  &__los {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+  }
+  &__btn {
+    width: 92px;
+    height: 34px;
+    border: 1px solid #FFFFFF;
+    border-radius: 39px;
+    transform: rotate(-90deg);
+    background: none;
+
+
+  }
+}
+    .left {
+      &--button {
+        margin-top: 200px;
+        width: 231px;
+        height: 58px;
+        background: none;
+        border: 1px solid #FFFFFF;
+        border-radius: 14px;
+
+      }
+    }
+    .left {
+      &--select {
+        background: none;
+        border: none;
+        color: #FFFFFF;
+        font-size: 20px;
+      &--option {
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 200;
+        font-size: 20px;
+        line-height: 24px;
+        color: #FFFFFF;
+      }
+      }
+    }
+.left {
+  &--text {
+    &__cost {
+      margin-top: -70px;
+      padding:0 0 200px;
+      &--bt {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        background: #C6C6C6;
+        border: 1px solid #FFFFFF;
+        &:hover {
+          background:  #FE8B46;
+        }
+
+      }
+    }
+    h2 {
+      font-family: 'Inter',sans-serif;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 20px;
+      line-height: 24px;
+
+      color: #F1B864;
+
+    }
+    h1 {
+      font-family: 'Inter',sans-serif;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 32px;
+      line-height: 39px;
+      color: #FFFFFF;
+    }
+
+  }
+}
+    .left {
+      &--block {
+        &__black {
+margin-left: -220px;
+          width: 30px;
+          height: 30px;
+          border-radius: 50%;
+          background: none;
+          border-color: #F4BF00;;
+        }
+        &__purple {
+          margin-top: 100px;
+          margin-left: 90px;
+          width: 35px;
+          height: 35px;
+          border-radius: 50% ;
+          background: none;
+          border-color: #FE67EF;;
+        }
+
+      }
+    }
+    .left {
+      &--btn6 {
+        margin-top: 150px;
+        width: 161px;
+        height: 63px;
+        background: #FE8B46;
+        border: 1px solid #FFFFFF;
+        border-radius: 38px;
+        color: #C6C6C6;
+        font-size: 20px;
+        transition: .4s;
+        &:hover {
+          background: purple;
+          color: black;
+        }
+
+      }
+    }
+
+
+  }
+
+}
